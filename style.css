@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 :root{
-    --cor-de-fundo:#000000;
-    --branco:#FFFFFF;
-    --preto:#b3afaf;
-    --botao-ativo:#ff7b00be;
-    --botao: #e29696;
-    --botao-inativo: #FFFFFF;
+    --cor-de-fundo:#7f33d6;
+    --branco:#0a0a0a;
+    --preto:#020202;
+    --botao-ativo:#5922a0be;
+    --botao: #9959ce;
+    --botao-inativo: #ffffff;
 }
 
 body{
